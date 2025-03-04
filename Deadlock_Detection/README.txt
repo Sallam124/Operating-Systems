@@ -20,5 +20,10 @@ Create a file named Deadlock.txt in the same directory as the program. The file 
 string filename = "/path/to/your/Deadlock.txt";  // Update this with your actual path
 
 
-To compile using linux terminal:Create the cpp file, create the text file.
-g++ -o folder name file name.cpp
+To compile using linux terminal:
+Create the cpp file, create the text file.
+
+g++ -o compling file file name .cpp
+
+./compling file
+
