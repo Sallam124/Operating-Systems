@@ -1,0 +1,3 @@
+cl /std:c++17 "Task 6.cpp" /Fe:Task_6.exe
+
+Task_6.exe "C:/Users/salla/OneDrive/Desktop/Operating-Systems/Task 6/Test_dir"
