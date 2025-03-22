@@ -11,3 +11,4 @@ You can modify the following parameters in main() to change the simulation:
   local_frame_size: Number of frames for each process in local FIFO.
   
   global_frame_size: Total frames shared by all processes in global FIFO.
+.

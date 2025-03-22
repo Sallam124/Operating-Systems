@@ -9,5 +9,5 @@ To Compile on linux terminal:
 
   g++ -o compling file file name .cpp
   
-  ./compling file
+  ./compling file.
 

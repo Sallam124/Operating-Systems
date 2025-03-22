@@ -25,5 +25,5 @@ Create the cpp file, create the text file.
 
 g++ -o compling file file name .cpp
 
-./compling file
+./compling file.
 
