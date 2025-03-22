@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\salla\\OneDrive\\Desktop\\Operating-Systems\\Task 9\\Task_9 - Scheduling Algorithmn\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D2B7557-E963-4855-B1ED-6F99D1ED6CFA}|Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn.vcxproj|C:\\Users\\salla\\OneDrive\\Desktop\\Operating-Systems\\Task 9\\Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D2B7557-E963-4855-B1ED-6F99D1ED6CFA}|Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn.vcxproj|solutionrelative:Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task_9 - Scheduling Algorithmn.cpp",
+              "DocumentMoniker": "C:\\Users\\salla\\OneDrive\\Desktop\\Operating-Systems\\Task 9\\Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn.cpp",
+              "RelativeDocumentMoniker": "Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn.cpp",
+              "ToolTip": "C:\\Users\\salla\\OneDrive\\Desktop\\Operating-Systems\\Task 9\\Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn.cpp",
+              "RelativeToolTip": "Task_9 - Scheduling Algorithmn\\Task_9 - Scheduling Algorithmn.cpp",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAmwNwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T14:23:37.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

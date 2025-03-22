@@ -1,6 +1,0 @@
-Hello, world! This is a simple text parsing example. We will count words in this text.
-Each word should be counted individually, and we want to check the performance of this approach.
-Multithreading can speed up the processing of large texts. 
-
-The quick brown fox jumps over the lazy dog. 
-This is a well-known sentence that contains all letters of the alphabet. It is often used for typing practice and font display.
